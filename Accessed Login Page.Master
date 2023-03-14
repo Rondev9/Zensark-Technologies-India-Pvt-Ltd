@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Accessed Login Page.master.cs" Inherits="Web_Excerciese___04_03_2023___Zensark_website.Accessed_Login_Page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="width:100%;font-family:Tahoma; padding-left:150px; padding-right: 100px; box-shadow:0px 5px 10px 0px rgba(0, 0, 0, 0.2); margin-bottom:15px">
+                    <tr>
+                        <td width="50%">
+                            <asp:ImageButton ID="ImgZensarkLogo" runat="server" ImageUrl="~/Images/Zensark-logo.png" PostBackUrl="~/Home.aspx" style="width:250px"/>
+                        </td>
+                        <td width="10%" align="center">
+                            <asp:HyperLink ID="hypLnkHome" runat="server" NavigateUrl="~/Home.aspx" Target="_parent" style="text-decoration:none">Home</asp:HyperLink>
+                        </td>
+                    </tr>
+                </table>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <%--Content Section--%>
+                <asp:LoginView ID="LoginView1" runat="server"></asp:LoginView>
+            </asp:ContentPlaceHolder>
+            <div style="background-color:darkblue; color:white;font-family:Tahoma; padding-left:150px; padding-right: 100px">
+                <table style="padding-bottom:20px">
+                <tr>
+                    <td width="20%">
+                        <br />
+                        <br />
+                        <br />
+                        USA
+                        <br />
+                        <br />
+                        a) 5172 NW 74th Ct, <br />
+                        Coconut Creek, FL, US,
+                        <br />
+                        33073-273
+                        <br />
+                        <br />
+                        b) 5906 Rosewood Road,
+                        <br />
+                        Dublin, CA 94568
+                        <br />
+                        <br />
+                        Call +1 (707) 340-5523<br />
+                    </td>
+                    <td width="20%">AUSTRALIA
+                        <br />
+                        <br />
+                        22/40 Philip Hodgins <br />
+                        Street, Wright ACT 2611
+                        <br />
+                        <br />
+                        <br />
+                        Call +61 412 205 391</td>
+                    <td width="20%">CANADA
+                        <br />
+                        <br />
+                        5500 N Service Rd, <br />
+                        Suite 801 Burlington,
+                        <br />
+                        ON L7L 6W6
+                        <br />
+                        <br />
+                        Call +1 (707) 340-5523</td>
+                    <td width="20%">INDIA
+                        <br />
+                        <br />
+                        Jayabheri Silicon County, <br />
+                        Hitech Road,
+                        <br />
+                        Hyderabad – 500084
+                        <br />
+                        <br />
+                        Call +91 40 2311 9398</td>
+                    <td width="20%" style="padding-right:50px">DUBAI<br /><br />
+                        Burlington Tower, <br />
+                        24th floor, Office No 2412,
+                        <br />
+                        Business Bay, Dubai
+                        <br />
+                        <br />
+                        Call +1 (707) 340-5523</td>
+                </tr>
+                </table>
+                <hr style="color:white"/>
+                <table style="width: 100%; background-color:darkblue; color:white;font-family:Tahoma;">
+                <tr>
+                    <td>
+                        <br />
+                        &#169; 2023 - Zensark Technologies
+                        <br />
+                        <br />
+                    </td>
+                    <td style="text-align:right">
+                        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="https://twitter.com/Zensark2" Target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png" alt="Twitter Icon" height="30" width="30" class="socialMediaImg img" /></asp:HyperLink>
+                        
+                        <a href="https://www.facebook.com/" Target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-128.png" alt="Facebook Icon" height="30" width="30" class="socialMediaImg"></a>
+                        <a href="https://www.linkedin.com/home" Target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" alt="LinkedIn Icon" height="30" width="30" class="socialMediaImg">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            </div>
+        </div>
+    </form>
+    <%--<form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>--%>
+</body>
+</html>

@@ -1,0 +1,59 @@
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\Web Excerciese - 04-03-2023 - Zensark website.dll.config
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\Web Excerciese - 04-03-2023 - Zensark website.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\Web Excerciese - 04-03-2023 - Zensark website.pdb
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\csc.exe
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\csc.exe.config
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\csc.rsp
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\csi.exe
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\csi.exe.config
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\csi.rsp
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.Managed.Core.targets
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.AppContext.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Collections.Immutable.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Console.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Globalization.Calendars.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.IO.Compression.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.IO.FileSystem.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Net.Http.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Net.Sockets.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Reflection.Metadata.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.ValueTuple.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Xml.XmlDocument.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Xml.XPath.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\vbc.exe
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\vbc.exe.config
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\vbc.rsp
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\VBCSCompiler.exe
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\roslyn\VBCSCompiler.exe.config
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\obj\Debug\Web Excerciese - 04-03-2023 - Zensark website.csproj.AssemblyReference.cache
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\obj\Debug\Web Excerciese - 04-03-2023 - Zensark website.csproj.CoreCompileInputs.cache
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\obj\Debug\Web Excerciese - 04-03-2023 - Zensark website.csproj.CopyComplete
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\obj\Debug\Web Excerciese - 04-03-2023 - Zensark website.dll
+F:\.Net - Zensark\Web Excercises - ASP.Net\Web Excerciese - 04-03-2023 - Zensark website\obj\Debug\Web Excerciese - 04-03-2023 - Zensark website.pdb
